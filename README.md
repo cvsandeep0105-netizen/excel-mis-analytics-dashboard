@@ -1,50 +1,48 @@
-# Excel Sales Analytics Dashboard – Project 1
+Excel MIS Analytics Dashboard
 
-## 📌 Project Overview
-This project demonstrates advanced data analytics skills using Microsoft Excel. A complete Sales Analytics Dashboard was built by analyzing structured dummy sales data containing Order details, Products, Regions, Costs, and Delivery timelines.
+Author: Sandeep Reddy
 
-The objective of this project is to showcase practical expertise in:
-- Data cleaning and structuring  
-- PivotTable analysis  
-- PivotCharts creation  
-- Business dashboard development  
+Overview  
+This project is a practical demonstration of MIS reporting and data analytics using Microsoft Excel. A dynamic dashboard was created by analyzing structured sales data to generate meaningful KPIs and visual insights.
 
-## 🛠 Tools Used
-- Microsoft Excel 365  
+Objectives
+
+- Perform data cleaning and organization  
+- Analyze data using Pivot Tables  
+- Create Pivot Charts for visualization  
+- Calculate key sales and operations KPIs  
+- Demonstrate professional Excel dashboard design  
+
+Key Features
+
+- Product-wise sales performance  
+- Region-wise revenue analysis  
+- Monthly trend reporting  
+- Planned vs Actual cost comparison  
+- Delivery delay days calculation  
+- Variance percentage metrics  
+
+What This Project Demonstrates
+
+- Strong hands-on Excel analytics skills  
+- Understanding of business metrics  
+- Ability to transform raw data into MIS reports  
+- Capability to design clear dashboards  
+
+Outcome  
+A fully functional Excel MIS dashboard providing quick insights into sales trends and operational efficiency.
+
+Skills Demonstrated
+
 - PivotTables  
 - PivotCharts  
-- Excel Formulas and Calculated Fields  
+- KPI Calculations  
+- Excel Formulas  
+- Variance Analysis  
+- Data Visualization  
 
-## 📊 Data Description
-The dataset includes the following fields:
-- Order_ID  
-- Customer_Name  
-- Region  
-- Product  
-- Order_Date  
-- Delivery_Date  
-- Planned_Cost  
-- Actual_Cost  
-- Order_Status  
-- Delay_Days  
-- Cost_Variance  
+Future Scope
 
-A PivotTable sheet was created from this raw data to summarize total actual costs by product and region.
-
-## 🚀 Key Features
-- Created interactive PivotTables  
-- Designed multiple visual PivotCharts  
-- Implemented calculated metrics like delay days and cost variance  
-- Developed a dedicated Dashboard worksheet presenting final insights  
-
-## 📈 Outcome
-The final dashboard provides clear visual representation of:
-- Sales performance across different global regions  
-- Product-wise revenue contribution  
-- Delivery delays and cost deviations  
-
-This project proves the ability to convert raw business data into meaningful insights using Excel-based analytics.
-
-## 👤 Author
-Venkata Sandeep Kumar Reddy
-GitHub Portfolio Project
+- Integration with Power BI  
+- Power Query automation  
+- VBA report enhancements
