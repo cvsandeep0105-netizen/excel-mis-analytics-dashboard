@@ -46,3 +46,12 @@ Future Scope
 - Integration with Power BI  
 - Power Query automation  
 - VBA report enhancements
+
+- 
+- Key Business Insights
+
+- Americas region generated highest total revenue.
+- Tablets and Smartwatches showed strong demand growth month over month.
+- Several orders exceeded planned costs leading to cost variance.
+- Marketing department maintained good CSAT scores above 4.5.
+- Delivery delays directly impacted operational efficiency KPIs.
